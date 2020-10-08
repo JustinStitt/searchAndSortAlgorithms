@@ -13,3 +13,4 @@ My personal collection of some searching and sorting algorithms implemented in C
 - Selection Sort 
 - Linear Sort
 - Merge Sort
+- Quick Sort
