@@ -3,7 +3,7 @@ My personal collection of some searching and sorting algorithms implemented in C
 
 
 ## Search
-- Binary Search 
+- Binary Search (cpp, julia)
 - Linear Search
 
 
