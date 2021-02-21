@@ -11,6 +11,7 @@ function merge!(arr, l1, r1, l2, r2)
             push!(merged, arr[l1])
             l1 += 1 
         elseif arr[l1] < arr[l2]
+            push!(merged, arr[l1])
             l1 += 1
         else
             push!(merged, arr[l2])
