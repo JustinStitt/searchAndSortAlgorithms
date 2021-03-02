@@ -1,2 +1,2 @@
 # searchAndSortAlgorithms
-My personal collection of some searching and sorting algorithms implemented in C++
+My personal collection of some searching and sorting algorithms implemented in C++ and Julia
